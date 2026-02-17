@@ -1,3 +1,5 @@
+// Write a program to demonstrate relational operators between two numbers.
+
 #include <iostream>
 using namespace std;
 

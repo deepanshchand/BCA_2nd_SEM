@@ -1,3 +1,5 @@
+// Write a program demonstrating assignment operators (=, +=, -=, *=, /=).
+
 #include <iostream>
 using namespace std;
 

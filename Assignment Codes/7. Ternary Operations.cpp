@@ -1,3 +1,5 @@
+//Write a program to find the largest of two numbers using the ternary operator.
+
 #include <iostream>
 using namespace std;
 

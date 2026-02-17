@@ -1,3 +1,5 @@
+//Write a program to create a simple calculator using switch case.
+
 #include <iostream>
 using namespace std;
 

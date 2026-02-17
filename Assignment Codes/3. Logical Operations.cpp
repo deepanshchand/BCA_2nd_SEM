@@ -1,3 +1,5 @@
+// Write a program to check voting eligibility using logical operators.
+
 #include <iostream>
 using namespace std;
 
@@ -10,14 +12,18 @@ int main()
     cin >> age;
 
     // Condition using logical AND (&&)
-    if (age >= 18)
+    if (age >= 0 && age < 18)
     {
-        cout << "You are eligible to vote." << endl;
+        cout << "You are NOT eligible to vote." << endl;
     }
-    else
+    else if (age < 0)
     {
         cout << "You are NOT eligible to vote." << endl;
     }
 
+    else
+    {
+        cout << "You are eligible to vote";
+    }
     return 0;
 }

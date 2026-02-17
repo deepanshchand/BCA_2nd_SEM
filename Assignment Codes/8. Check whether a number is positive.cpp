@@ -1,3 +1,5 @@
+//Write a program to check whether a number is positive.
+
 #include <iostream>
 using namespace std;
 

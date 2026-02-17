@@ -1,3 +1,4 @@
+// Write a program to perform bitwise AND, OR, and XOR operations.
 #include <iostream>
 using namespace std;
 

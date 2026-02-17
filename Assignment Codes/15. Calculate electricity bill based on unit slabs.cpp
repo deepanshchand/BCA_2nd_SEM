@@ -1,3 +1,5 @@
+//Write a program to calculate electricity bill based on unit slabs.
+
 #include <iostream>
 using namespace std;
 

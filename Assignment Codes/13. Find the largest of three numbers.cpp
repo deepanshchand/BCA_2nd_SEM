@@ -1,4 +1,6 @@
-#include <iostream>
+//Write a program to find the largest of three numbers.
+
+    #include <iostream>
 using namespace std;
 
 int main()
