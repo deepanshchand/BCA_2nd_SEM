@@ -1,4 +1,4 @@
-//Q.1. Write a program using Class and Constructor.
+// Q.1. Write a program using Class and Constructor.
 
 #include <iostream>
 using namespace std;

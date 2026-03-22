@@ -1,4 +1,4 @@
-//Q.2. Write a program using friend function.
+// Q.2. Write a program using friend function.
 #include <iostream>
 using namespace std;
 
