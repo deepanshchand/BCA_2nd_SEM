@@ -15,4 +15,4 @@ int main()
     cout << a << b << c << e << myletter;
 
     return 0;
-}A+
+}

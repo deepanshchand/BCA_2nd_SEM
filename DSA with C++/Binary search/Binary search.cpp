@@ -10,7 +10,7 @@ int binarySearch(vector<int> arr, int tar)
         int mid = (st + end) / 2;
 
         if (tar > arr[mid])
-        {
+        {       
             st = mid + 1;
         }
         else if (tar < arr[mid])

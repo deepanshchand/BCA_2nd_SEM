@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class Base
+class A_Base
 {
 public:
     virtual void sum()
@@ -9,7 +9,7 @@ public:
     }
 };
 
-class Derived : public Base
+class B_Derived : public A_Base
 {
 public:
     void sum()
@@ -20,8 +20,8 @@ public:
 
 int main()
 {
-    Base *b;
-    Derived d;
+    A_Base *b;
+    B_Derived d;
     b = &d;
     b->sum();
     return 0;
